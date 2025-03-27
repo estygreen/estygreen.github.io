@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="./styles.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+  <h1>Common CSS Properties</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Property</th>
+        <th>Definition</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class ="css">font-family</td>
+        <td>Defines the font of text</td>
+      </tr>
+      <tr>
+        <td class = "css">font-size</td>
+        <td>Defines the size of text</td>
+      </tr>
+      <tr>
+        <td class = "css">font-weight</td>
+        <td>Defines how thin or thick text appears</td>
+      </tr>
+      <tr>
+        <td class = "css">color</td>
+        <td>Defines the colour of text</td>
+      </tr>
+      <tr>
+        <td class = "css">background-color</td>
+        <td>Defines the colour behind text</td>
+      </tr>
+      <tr>
+        <td class = "css">background-image</td>
+        <td>Sets the background of an element to an image</td>
+      </tr>
+    </tbody>
+  </table>
+</body>
+</html>
